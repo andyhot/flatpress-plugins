@@ -1,0 +1,5 @@
+A few plugins for flatpress.org blogging system.
+
+ * livehelp: Adds javascript to load olark.com live help system.
+
+ * sharethis: Adds bbcode tag to insert sharethis.com popup in your posts.
