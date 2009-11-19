@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ShareThis (http://sharethis.com)
-Plugin URI: http://blog.andyhot.gr
+Plugin URI: http://github.com/andyhot/flatpress-plugins
 Description: Adds ShareThis code to easily bookmark and share your page. Use [sharethis] in your post.
 Author: Andreas Andreou.
 Version: 1.0

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Live Help (http://olark.com)
-Plugin URI: http://blog.andyhot.gr
+Plugin URI: http://github.com/andyhot/flatpress-plugins
 Description: Adds olark's live help code - allows visitors to contact your IM
 Author: Andreas Andreou.
 Version: 1.0
